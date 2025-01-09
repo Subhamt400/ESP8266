@@ -3,8 +3,8 @@
 #include <WiFiClientSecure.h>
 
 // Wi-Fi Configuration
-const char* ssid = "OnePlus 5G";          // Replace with your Wi-Fi SSID
-const char* password = "e6h5jthc";        // Replace with your Wi-Fi Password
+const char* ssid = "ssid";          // Replace with your Wi-Fi SSID
+const char* password = "password";        // Replace with your Wi-Fi Password
 
 // Server URL
 const char* serverUrl = "https://cmpdir.in/random_number_api.php";  // HTTPS API endpoint
